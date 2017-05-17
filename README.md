@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 Pull request something or the other
+
+## Latest News
+
+Adding lots of new features
