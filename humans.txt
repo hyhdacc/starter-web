@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Everyone is the whole Team
+	Nobody is left behind
 
 # THANKS
 
