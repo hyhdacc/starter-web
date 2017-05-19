@@ -1,3 +1,4 @@
 ignoreThis.txt
 *.log
 log/
+*.orig
